@@ -1,0 +1,34 @@
+_repo: Un-tros-de-paper--13-Two-Volumes_22296
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Roure, Conrad
+    birthdate: 1841
+    deathdate: 1928
+    gutenberg_agent_id: '36432'
+    url: http://www.gutenberg.org/2009/agents/36432
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Riba, Carles
+    alias: Bracons, Carlos Riba
+    birthdate: 1893
+    deathdate: 1959
+    gutenberg_agent_id: '8804'
+    url: http://www.gutenberg.org/2009/agents/8804
+description: ''
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22296'
+language: ca
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PC'
+- !lcsh 'Catalan language -- Texts'
+title: "Un tros de paper\r\nTwo Volumes"
+url: http://www.gutenberg.org/ebooks/22296
